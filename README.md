@@ -1,4 +1,4 @@
-# DevSecOps Challenge
+# DevSecOps Challenge Junior
 
 # Prerequisitos
 Você precisará de uma conta na AWS. Crie uma se você ainda não tiver uma. Este teste deve ser feito com o Nível Gratuito dos serviços da AWS. Será necessário fornecer os acessos devidos aos avaliadores a sua conta. Escolha a forma que preferir.
