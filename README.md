@@ -4,7 +4,7 @@
 Você precisará de uma conta na AWS. Crie uma se você ainda não tiver uma. Este teste deve ser feito com o Nível Gratuito dos serviços da AWS. Será necessário fornecer os acessos devidos aos avaliadores a sua conta. Escolha a forma que preferir.
 
 # Tarefa
-O time de Segurança percebeu que estava sofrendo recorrentemente um ataque DOS  nos seus servidores. O time ainda está implementando soluções que impediriam esse tipo de ataque, até lá o time precisa monitorar os seus servidores para verificar se algum ataque foi bem sucedido e o servidor caiu. Para resolver esse problema, foi pedido que você crie uma *AWS Lambda* que deve **verificar** se os servidores estão de pé e caso algum não estejam, fazer um print com o texto **ALERTA DE ATAQUE**
+O time de Segurança percebeu que estava sofrendo recorrentemente um ataque DOS  nos seus servidores. O time ainda está implementando soluções que impediriam esse tipo de ataque, até lá o time precisa monitorar os seus servidores para verificar se algum ataque foi bem sucedido e o servidor caiu. Para resolver esse problema, foi pedido que você crie uma *AWS Lambda* que deve **verificar** se os servidores estão de pé e caso algum não esteja, fazer um print com o texto **ALERTA DE ATAQUE**
 .
 # Requisitos
 - Criar duas instâncias EC2 com configurações de Nível Gratuito na AWS. Estas instâncias serão utilizadas somente para verificar o funcionamento da *AWS Lambda*.
