@@ -10,7 +10,7 @@ O time de Segurança percebeu que estava sofrendo recorrentemente um ataque DOS 
 - Criar duas instâncias EC2 com configurações de Nível Gratuito na AWS. Estas instâncias serão utilizadas somente para verificar o funcionamento da *AWS Lambda*.
 - Criar uma AWS Lambda usando o runtime de Python que vai verificar as duas instâncias de uma em uma hora.
 - Configurar os acessos necessários para que esses serviços se comuniquem.
-- Conceder acesso de leitura aos recursos criados para conferência dos avaliadores.
+- Conceder acesso de leitura aos recursos criados para conferência dos avaliadores. Ver tudo que você criou e poder simular uma falha. (Nos enviar um usuário e senha por email)
 
 ## Perguntas
 ### Terei que pagar pelas taxas da AWS?
